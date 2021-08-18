@@ -153,7 +153,7 @@ td,th {
   font-size: 16px;
   line-height: 1.6;
   word-wrap: break-word;
-  text-align: justify;
+  /* text-align: justify; */
 }
 
 .markdown-body a {
@@ -177,7 +177,7 @@ td,th {
 .markdown-body img {
   border: 0;
   /* center img in parental element */
-  display: block;
+  /* display: block; */
   margin-left: auto;
   margin-right: auto;
 }
